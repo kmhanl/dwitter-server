@@ -39,5 +39,3 @@ connectDB()
     initSocket(server);
   })
   .catch(console.error);
-
-  module.exports = app;
