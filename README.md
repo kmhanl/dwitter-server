@@ -1,4 +1,4 @@
-Node 기반의 개인 프로젝트입니다.
+Node.js 기반의 개인 프로젝트입니다.
 <br> ※ 운영서버 사용 중이기 때문에 등록한 채팅은 계속 남아있습니다.
 <br>
 <br> 백엔드 : Node.js / 프론트엔드 : React / DB : NoSQL(MongoDB)
