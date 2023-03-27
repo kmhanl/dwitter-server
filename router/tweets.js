@@ -10,8 +10,8 @@ const router = express.Router();
 const validateTweet = [
   body('text')
     .trim()
-    .isLength({ min: 3 })
-    .withMessage('text should be at least 3 characters'),
+    .isLength({ min: 2 })
+    .withMessage('text should be at least 2 characters'),
   validate,
 ];
 
