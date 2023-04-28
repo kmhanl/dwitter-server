@@ -3,7 +3,7 @@
 <br>
 <br>1. 사이트 이름 : Dwitter
 <br>2. 사이트 주소 : https://port-0-dwitter-client-6g2llfm172tx.sel3.cloudtype.app
-<br>※ aws ec2 서버 (잠시 중단) : http://3.39.187.170:4000
+<br>※ aws ec2 서버 (요금 지출로 서버 중단 상태) : http://3.39.187.170:4000
 <br>3. 사용언어
 <br>&nbsp;&nbsp;1) 백엔드 : Node.js
 <br>&nbsp;&nbsp;2) 프론트엔드 : React 
